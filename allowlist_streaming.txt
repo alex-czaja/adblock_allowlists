@@ -1,0 +1,10 @@
+! Title: Allowlist for streaming services 
+! Description: This list contains domains that are needed for streaming services to function properly. Those domain will be added to the whitelist of your adblock service.
+! Homepage: https://github.com/alex-czaja/adblock_allowlists/tree/main
+! Version: 2025.0509
+! Syntax: AdBlock
+! Number of entries: 2
+!
+! Paramount+
+@@||tags.tiqcdn.com^
+@@||bam.nr-data.net^
